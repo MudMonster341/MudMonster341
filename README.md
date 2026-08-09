@@ -47,7 +47,7 @@ Let's connect.
 ## My GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MudMonster341&theme=dark&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=MudMonster341&theme=dark&hide_border=true&disable_animations=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
