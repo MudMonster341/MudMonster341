@@ -1,64 +1,19 @@
-# 👋 Hi, I'm Mustafa!
+Dubai · Computer Science at BITS Pilani Dubai, graduating 2026 · data engineering, with research in retrieval and model privacy.
 
-Welcome to my GitHub profile! I'm passionate about building, learning, and collaborating in the world of software development. Here you'll find my latest projects, experiments, and contributions.
+## Research
 
----
+- **LoRE: Low-Rank Erasure for Cross-Session Signer Privacy** (under review, 2026) — linear concept erasure fails to generalise across recording sessions, leaving signer identity recoverable at up to 0.99 ROC-AUC. A session-calibrated correction altering at most a two-dimensional subspace restores chance-level guardedness across three backbones and two corpora, at near-baseline BLEU.
+- **Mitigating Retrieval-Induced Bias in RAG** (ICAIBD 2026) — stance-balanced retrieval that enforces viewpoint coverage before generation. Preferred over vanilla retrieval in human fairness judgements across all six LLMs evaluated.
+- **Transparent AI in Medical Imaging: Fracture Detection** (KDIR 2025) — Grad-CAM explainability applied to fracture detection on hand radiographs. [Code](https://github.com/MudMonster341/fracture-segmentation)
 
-## 🚀 About Me
+## Building
 
-- **Curious Explorer:** Always seeking new technologies and creative solutions.
-- **Lifelong Learner:** Committed to continuous growth and mastering new skills.
-- **Collaborator:** Enjoy working with others to solve challenging problems.
+- [BridgeMode](https://github.com/MudMonster341/BridgeMode) — a Claude Code plugin and local MCP broker that splits planning from execution. Claude plans and reviews, Codex implements in a disposable git workspace, and a patch gate blocks anything from reaching the real repo until a review verdict is recorded.
+- [DoPilot](https://github.com/MudMonster341/DoPilot) — multi-agent code generator on LangGraph: planner, architect, coder, security and verification agents. Interviews you about the requirements first, so the spec is unambiguous before any code is generated.
 
----
+## Elsewhere
 
-## 🛠️ Skills & Tools
+[LinkedIn](https://www.linkedin.com/in/mustafa-fatehi) · mustafa.fatehi@gmail.com
 
-### Languages & Frameworks
+![Contributions](https://ghchart.rshah.org/MudMonster341)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🌟 Featured Projects
-
-- 🔥 **[Project Name 1](#)**  
-  _Brief description of what makes this project special._
-
-- 🚀 **[Project Name 2](#)**  
-  _Highlight its purpose or an accomplishment._
-
----
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn: [Your LinkedIn](#)
-- 🐦 Twitter: [@YourTwitter](#)
-- 🌐 Portfolio: [yourwebsite.com](#)
-- 📫 Email: your@email.com
-
----
-
-## ⚡ Fun Facts
-
-- I love tackling complex puzzles and challenges.
-- Coding playlists fuel my productivity.
-- Always up for a hackathon or open-source sprint!
-
----
-
-_Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate or chat!_
