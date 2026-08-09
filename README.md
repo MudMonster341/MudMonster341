@@ -44,7 +44,11 @@ Let's connect.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-## My GitHub Activity
+## My GitHub Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MudMonster341&theme=dark&hide_border=true" alt="GitHub streak" />
+</p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/0e75b6/MudMonster341" alt="Contribution graph" />
